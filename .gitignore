@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Geospatial data
+*.tif
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.geojson
+
+# System files
+.DS_Store
+Thumbs.db
